@@ -45,7 +45,7 @@ The first 30 frames are used only to learn the background, so stay out of frame 
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/motion-camera.git
+git clone https://github.com/tharunborra123/motion-camera.git
 cd motion-camera
 pip install -r requirements.txt
 ```
@@ -175,9 +175,7 @@ motion-camera/
 
 Built as a small project during the Kodacy x SPACE virtual internship in Artificial Intelligence and Machine Learning.
 
-- GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-
+- GitHub: [tharunborra123](https://github.com/tharunborra123)
 ---
 
 ## License
